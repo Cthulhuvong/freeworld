@@ -1,0 +1,4 @@
+freeworld
+=========
+
+a thought experiment
